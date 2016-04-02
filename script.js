@@ -67,6 +67,15 @@ FizzBuzzer.prototype = {
         list.appendChild(this.dom.cloneNode(true));
       }
     }
+  },
+
+  reset: function() {
+    list.innerHTML = '';
+    for (var i = this.min; i <= this.max; i++) {
+      for (i in this.flow) {
+        this.flow[i] = '';
+      }
+    }
   }
 };
 
