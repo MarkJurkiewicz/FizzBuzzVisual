@@ -1,7 +1,7 @@
 /**
  * Created by maj on 3/28/16.
  */
-//Vanilla JavaScript exercise
+//Vanilla JavaScript
 //FizzBuzz Constructor function
 
 function FizzBuzzer(min, max) {
@@ -68,6 +68,7 @@ FizzBuzzer.prototype = {
       }
     }
   },
+
 
   reset: function() {
     list.innerHTML = '';

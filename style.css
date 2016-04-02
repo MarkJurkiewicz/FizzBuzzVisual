@@ -1,0 +1,73 @@
+body {
+    font-size: 1.75vmax;
+    font-family: 'American Typewriter';
+    color:firebrick;
+}
+#list {
+    color:red;
+}
+
+#repeat {
+    background-color: black; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 3vmax;
+    font-family: 'American Typewriter';
+    cursor: pointer;
+}
+
+#fizz {
+    background-color: red; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 3vmax;
+    font-family: 'American Typewriter';
+    cursor: pointer;
+}
+
+#buzz {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 3vmax;
+    font-family: 'American Typewriter';
+    cursor: pointer;
+}
+
+#fizzbuzz {
+    background-color: magenta; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 3vmax;
+    font-family: 'American Typewriter';
+    cursor: pointer;
+}
+
+#reset {
+    background-color: navy; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 3vmax;
+    font-family: 'American Typewriter';
+    cursor: pointer;
+}
