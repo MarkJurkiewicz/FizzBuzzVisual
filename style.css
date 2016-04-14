@@ -5,6 +5,7 @@ body {
 }
 #list {
     color:red;
+    display: inline-block;
 }
 
 #repeat {
