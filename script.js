@@ -84,19 +84,3 @@ FizzBuzzer.prototype = {
 // instantiate fizzBuzzer Object with a range of 1 to 100
 
 var z = new FizzBuzzer(1, 100);
-
-
-//commented out event handlers (saved code and utilized onclick in HTML
-////Button Event Handlers
-//fizz.onclick = function() {
-//  z.fizz();
-//};
-//buzz.onclick = function() {
-//  z.buzz();
-//};
-//fizzbuzz.onclick = function() {
-//  z.fizzbuzz();
-//};
-//repeat.onclick = function() {
-//  z.repeat();
-//};
